@@ -1,0 +1,39 @@
+/* CSS Document */
+
+/*#mycarousel img{
+
+
+
+height: 150%;
+width:175%;
+
+}*/
+
+.carousel-subtext{
+
+  position:absolute;
+  top:20%;
+  right:0;
+  height:100%;
+  width:25%;
+  font-size: 60px;
+  font-weight: 100;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background-image:inherit;
+  
+}
+
+.icon-skin{
+
+  /*color:#EFBA4B;*/
+color:white;
+margin-bottom:0;
+}
+
+.carousel-subtext a{
+ margin-bottom:0;
+ color:white;
+
+}
